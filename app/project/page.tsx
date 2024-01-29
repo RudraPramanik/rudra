@@ -37,7 +37,7 @@ const initialProjects = [
         title: 'Transform Portfolio Design to Web App',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
@@ -64,7 +64,7 @@ const initialProjects = [
         title: 'Portfolio 2',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
@@ -91,7 +91,7 @@ const initialProjects = [
         title: 'Portfolio 3',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
@@ -118,7 +118,7 @@ const initialProjects = [
         title: 'Portfolio 4',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
@@ -145,7 +145,7 @@ const initialProjects = [
         title: 'Portfolio 5',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
@@ -172,7 +172,7 @@ const initialProjects = [
         title: 'Portfolio 6',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
         repositoryUrl: "https://github.com/RudraPramanik",
-        demoUrl: "https://deri.my.id",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
