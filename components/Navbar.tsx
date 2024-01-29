@@ -131,12 +131,12 @@ export default function Navbar(): JSX.Element {
                             <a
                                 href="/"
                                 className="flex-1 py-4 safe-x-padding"
-                                download="Deri Kurniawan Resume"
+                                download="rudra pramaniks portfolio"
                             >
                                 <div className="flex items-center justify-between">
                                     <span className='text-2xl font-semibold'>Resume</span>
                                     <span className='text-4xl'>
-                                        <BsFileEarmarkPerson />
+                                        {/* <BsFileEarmarkPerson /> */}
                                     </span>
                                 </div>
                             </a>
