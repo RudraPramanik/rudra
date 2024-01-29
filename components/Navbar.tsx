@@ -134,7 +134,7 @@ export default function Navbar(): JSX.Element {
                                 download="rudra pramaniks portfolio"
                             >
                                 <div className="flex items-center justify-between">
-                                    <span className='text-2xl font-semibold'>Resume</span>
+                                    {/* <span className='text-2xl font-semibold'>Resume</span> */}
                                     <span className='text-4xl'>
                                         {/* <BsFileEarmarkPerson /> */}
                                     </span>
