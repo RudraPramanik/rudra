@@ -36,7 +36,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-1',
         title: 'Transform Portfolio Design to Web App',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -63,7 +63,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-2',
         title: 'Portfolio 2',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -90,7 +90,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-3',
         title: 'Portfolio 3',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -117,7 +117,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-4',
         title: 'Portfolio 4',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -144,7 +144,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-5',
         title: 'Portfolio 5',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -171,7 +171,7 @@ const initialProjects = [
         slug: 'transform-portfolio-design-to-web-app-6',
         title: 'Portfolio 6',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        repositoryUrl: "https://github.com/RudraPramanik",
         demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -198,8 +198,8 @@ const initialProjects = [
         slug: 'portfolio-web-design',
         title: 'Portfolio Web Design',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://dribbble.com/shots/21642242-3D-Theme-Portfolio-Website?utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share",
-        demoUrl: "https://www.figma.com/proto/TYBBBbA5cvBN4QU70hNxvr/DK-PORTFOLIO?node-id=1-2&scaling=scale-down-width",
+        repositoryUrl: "",
+        demoUrl: "",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
             {
