@@ -79,13 +79,13 @@ export default function SectionHero(): JSX.Element {
                         className='font-montserrat font-extrabold text-5xl md:text-[64px] md:leading-[56px] lg:text-[66px] lg:leading-[88px] gradient-text mb-6 text-center xl:text-left'
                         aria-label="Full Stack Web Developer"
                     >
-                        Full Stack Web & Mobile Developer
+                        Full Stack Web, Mobile, ML Developer
                     </motion.h2>
                     <motion.p
                         className='text-base font-medium text-center md:text-xl lg:text-2xl text-accent xl:text-left'
                         aria-label="I'm Deri Kurniawan. A passionate Full Stack Web Developer based in Sukabumi Regency, West Java, Indonesia."
                     >
-                        I&apos;m Rudra Pramanik. A passionate Full Stack Software Developer based in Dhaka, Bangladesh.
+                        I&apos;m Rudra Pramanik. A passionate Full Stack Software Developer & ML expert based in Dhaka, Bangladesh.
                     </motion.p>
                 </div>
                 {/* second */}
