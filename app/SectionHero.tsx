@@ -15,7 +15,7 @@ interface IAnimateImageProps extends MotionProps {
 
 const AnimatedImage = motion(Image);
 
-export default function SectionHero(): JSX.Element {
+export default function SectionHero() {
     const { ref, inView } = useInView({
         threshold: 0.1,
         triggerOnce: true,

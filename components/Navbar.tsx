@@ -23,7 +23,7 @@ const navlinks = [
     },
 ];
 
-export default function Navbar(): JSX.Element {
+export default function Navbar() {
     const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false)
     const triggerMenuRef = React.useRef<HTMLInputElement>(null);
     const navbarRef = React.useRef<HTMLDivElement>(null);
